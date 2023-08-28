@@ -43,20 +43,20 @@
 }
 
 .head{
-    background: linear-gradient(rgb(255, 110, 110), rgb(255, 255, 120));
-    border: 2px solid rgb(45, 2, 45); 
+    background: linear-gradient(rgb(248, 102, 102), rgb(255, 255, 120));
+    border: 2px solid rgb(57, 0, 57); 
     transform: scale(1.02);
     border-radius: 9px;
 }
 
 .snake{
-    background-color: rgb(100, 247, 37);
+    background-color: rgb(114, 255, 53);
     border: .25vmin solid white;
     border-radius: 12px;
 }
 
 .food{
     background: linear-gradient(rgb(255, 38, 38), rgb(188, 10, 188));
-    border: .25vmin solid black;
+    border: .25vmin solid rgb(6, 5, 5);
     border-radius: 8px;
 }
