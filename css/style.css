@@ -57,9 +57,11 @@
   align-items: center;
 }
 
+
+
 #scoreBox {
   position: absolute;
-  top: 9px;
+  top: 10px;
   padding-left: 50px;
   right: 200px;
   font-size: 39px;
