@@ -80,7 +80,7 @@
 
 #board {
   background: linear-gradient(rgb(209, 242, 79), rgb(253, 144, 228));
-  width: 100vmin;
+  width: 130vmin;
   height: 80vmin;
   margin-top: 60px;
   border: 2px solid rgb(24, 22, 22);
@@ -98,12 +98,12 @@
 
 .snake {
   background-color: rgb(114, 255, 53);
-  border: 0.25vmin solid white;
+  border: 0.05vmin solid white;
   border-radius: 10px;
 }
 
 .food {
   background: linear-gradient(rgb(255, 38, 38), rgb(188, 10, 188));
-  border: 0.25vmin solid rgb(6, 5, 5);
+  border: 0.15vmin solid rgb(6, 5, 5);
   border-radius: 50%;
 }
