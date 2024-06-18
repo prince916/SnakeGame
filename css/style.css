@@ -90,9 +90,9 @@
 }
 
 .head {
-  background: linear-gradient(rgb(248, 102, 102), rgb(255, 255, 120));
+  background: linear-gradient(rgb(255, 95, 95), rgb(241, 241, 19));
   height: 10px;
-  border: 2px solid rgb(57, 0, 57);
+  border: 2px solid rgb(41, 1, 41);
   transform: scale(1.12);
   border-radius: 5px;
 }
@@ -105,7 +105,7 @@
 }
 
 .food {
-  background: linear-gradient(rgb(255, 38, 38), rgb(188, 10, 188));
+  background: linear-gradient(rgb(250, 27, 27), rgb(188, 10, 188));
   border: 0.15vmin solid rgb(6, 5, 5);
   border-radius: 50%;
 }
